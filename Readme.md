@@ -3,21 +3,16 @@ Taller ||| Aplicaciones Web
  Gabriel Arrua Fleitas 
 
 1. Que es un servidor?
-2. 
 Es un programa que es capaz de atender requisiciones y envia una respuesta 
 2. Que es un protocolo dentro de la informatica?
-3. 
 Es un conjunto de reglas usadas por computadoras para comunicarse unas con otras a través de una red.
 3. Que es un servidor web?
 Es un programa que es capaz de atender requisiciones y envia una respuesta el protocolo htmp
-
 4. Que es un cliente?
-El cliente es una aplicacion informmatico o un commputador ,conocido como servidor ,normalmente a traves de una red telecomunicaciones 
+El cliente es una aplicacion informmatico o un commputador ,conocido como servidor ,normalmente a traves de una red telecomunicaciones
 5 Cual es el cliente web por excelencia 
-
 6. Que es html?
  Es para crear todas las paginas web
- 
 7. Que son las etiquetas?
  Marca o marcas que se dejan en un texto para que luego sean interpretadas, generalmente para realizar alguna acción sobre el mismo texto marcado.
 8. cuales son las diferencia entre las etiquetas h1,h2,h3,h4,h5?
@@ -29,28 +24,16 @@ El cliente es una aplicacion informmatico o un commputador ,conocido como servid
 <h6>Texto muy pequeño</h6>
 9. con que etiqueta se agrega una imagen en un documento html?
 Para poner una imágen utilizamos el siguiente código:
-
 <img src="imagenHTML.jpg">
-
 Donde "imagenHTML.jpg" es la imagen que vamos a colocar. Deberá estar ubicada en el mismo directorio. Si queremos colocar una imagen con HTML en una página que no está colocada dentro del mismo directorio, podemos usar una ruta absoluta:
-
 <img src="folder/imagenHTML.jpg"
-
 La etiqueta <img> tiene varias propiedas como son:
-
 border, width, height, alt
-
 Ejemplo con propiedades de imágen en HTML
-
 <img src="imagenHTML.jpg" border="0" width="10" height="10">
-
 El ancho y alto (width, height) se coloca en pixeles y deben corresponder al tamaño original de la imagen para que no se distorcione.
-
-
-
 URL del artículo: http://www.ejemplode.com/17-html/81-ejemplo_de_como_colocar_imagenes_con_html.html
 Leer completo: Cómo colocar imágenes con HTML
-
 10. Con que etiqueta se agrega un video en un documento html?
 Con la siguiente: [<video src=""></video>] de vuelta el source del video va insertado dentro de las comillas
 11. Con que etiqueta  se agrega un sonido en un documento html?
@@ -74,10 +57,8 @@ y finalmente superindice utiliza <sup>..</sup>.
 Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 19. Que es github?
  GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git.
-
 20.  Que es clonar un repasitorio cual comando se utiliza?
 Es copiar todo el repositorio remoto o alojado en la nube a tu maquina se utiliza el comando git clone [url de lo que se desea clonar]
- 
 21. Que es  un commit?
  En el contexto de la Ciencia de la computación y la gestión de datos, commit (acción de comprometer) se refiere a la idea de consignar un conjunto de cambios "tentativos" de forma permanente. Un uso popular es al final de una transacción de base de datos.
 22. que es un push?
@@ -86,7 +67,6 @@ Es un mensaje enviado por un servidor a un cliente
 Es la ultima confirmacion de cambios realizada.
 24. Que es un repositorio local y remoto?
 Que es un repositorio local y remoto El repositorio local esta compuesto por tres "árboles" administrados por git. El primero es tu Directorio de trabajo que contiene los archivos, el segundo es el Index que actua como una zona intermedia, y el último es el HEAD que apunta al último commit realizado.
-
 Los repositorios remotos son versiones de tu proyecto que se encuentran alojados en Internet o en algún punto de la red. Puedes tener varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengas.
 25. Cual es la funcion de la etiqueta doctype?
  El DOCTYPE es una declaración del estándar usado al construir un documento HTML o XHTML.
