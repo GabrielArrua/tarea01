@@ -3,8 +3,10 @@ Taller ||| Aplicaciones Web
  Gabriel Arrua Fleitas 
 
 1. Que es un servidor?
+2. 
 Es un programa que es capaz de atender requisiciones y envia una respuesta 
 2. Que es un protocolo dentro de la informatica?
+3. 
 Es un conjunto de reglas usadas por computadoras para comunicarse unas con otras a través de una red.
 3. Que es un servidor web?
 Es un programa que es capaz de atender requisiciones y envia una respuesta el protocolo htmp
