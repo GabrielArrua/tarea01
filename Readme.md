@@ -1,6 +1,7 @@
 Taller ||| Aplicaciones Web
  
  Gabriel Arrua Fleitas 
+```html
 
 1. Que es un servidor?
 Es un programa que es capaz de atender requisiciones y envia una respuesta 
@@ -71,5 +72,5 @@ Los repositorios remotos son versiones de tu proyecto que se encuentran alojados
 25. Cual es la funcion de la etiqueta doctype?
  El DOCTYPE es una declaración del estándar usado al construir un documento HTML o XHTML.
   Guardar el archivo con el nombre README.md
-
+```
 
